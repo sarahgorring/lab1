@@ -1,4 +1,4 @@
-Lab 1
+Neural Networks Final Project
 =====
 This is the final project of Sarah Gorring and Jack Tunstall for CS 342, Neural Networks Fall 2017.
 
