@@ -23,3 +23,10 @@ To have our tux play super tuxkart execute the following
 cd pykart
 python3 grade.py final82.tfg
 ```
+## View Recording
+
+To veiw the recording data of our tux completeing a lap of supertuxkart
+
+```cd recording```
+
+The file `Video.MOV` has a video of our tux completing a lap and the file `actionsfinal.txt` contains the actions our tux executed while playing during the video.
