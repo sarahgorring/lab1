@@ -34,3 +34,7 @@ cd recording
 ```
 
 The file `Video.MOV` has a video of our tux completing a lap and the file `actionsfinal.txt` contains the actions our tux executed while playing during the video.
+
+## Network Code
+
+The code we used to train our tux is in `starter.py`
