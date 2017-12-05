@@ -38,3 +38,7 @@ The file `Video.MOV` has a video of our tux completing a lap and the file `actio
 ## Network Code
 
 The code we used to train our tux is in `starter.py`
+
+## Write Up
+
+A writeup for pur project can be found in the file `Neural_Networks_Final_Project_Writeup.pdf`
